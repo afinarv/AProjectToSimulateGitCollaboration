@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Book {
+    var title: String
+    var author: String
+}
